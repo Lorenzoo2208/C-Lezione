@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "P+D/2q2jn259+TRPTKHSGJ3pEsdEVUOkjDeM51qpjQQF98BsmxrCm1ppBdz3bENDvttpK5bq1MYV7OXjTQlbRQ==",
+  "success": true,
+  "projectFilePath": "/home/its/c sharp/Lezione1/Lezione1/Lezione1.csproj",
+  "expectedPackageFiles": [
+    "/home/its/.nuget/packages/microsoft.netcore.app.ref/6.0.8/microsoft.netcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/its/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/its/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.8/microsoft.netcore.app.host.linux-x64.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

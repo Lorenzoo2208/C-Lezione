@@ -1,0 +1,15 @@
+/home/its/c sharp/Lezione1/Lezione1/bin/Debug/net6.0/Lezione1
+/home/its/c sharp/Lezione1/Lezione1/bin/Debug/net6.0/Lezione1.deps.json
+/home/its/c sharp/Lezione1/Lezione1/bin/Debug/net6.0/Lezione1.runtimeconfig.json
+/home/its/c sharp/Lezione1/Lezione1/bin/Debug/net6.0/Lezione1.dll
+/home/its/c sharp/Lezione1/Lezione1/bin/Debug/net6.0/Lezione1.pdb
+/home/its/c sharp/Lezione1/Lezione1/obj/Debug/net6.0/Lezione1.csproj.AssemblyReference.cache
+/home/its/c sharp/Lezione1/Lezione1/obj/Debug/net6.0/Lezione1.GeneratedMSBuildEditorConfig.editorconfig
+/home/its/c sharp/Lezione1/Lezione1/obj/Debug/net6.0/Lezione1.AssemblyInfoInputs.cache
+/home/its/c sharp/Lezione1/Lezione1/obj/Debug/net6.0/Lezione1.AssemblyInfo.cs
+/home/its/c sharp/Lezione1/Lezione1/obj/Debug/net6.0/Lezione1.csproj.CoreCompileInputs.cache
+/home/its/c sharp/Lezione1/Lezione1/obj/Debug/net6.0/Lezione1.dll
+/home/its/c sharp/Lezione1/Lezione1/obj/Debug/net6.0/refint/Lezione1.dll
+/home/its/c sharp/Lezione1/Lezione1/obj/Debug/net6.0/Lezione1.pdb
+/home/its/c sharp/Lezione1/Lezione1/obj/Debug/net6.0/Lezione1.genruntimeconfig.cache
+/home/its/c sharp/Lezione1/Lezione1/obj/Debug/net6.0/ref/Lezione1.dll

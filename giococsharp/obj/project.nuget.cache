@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "uD5EfVgRnbOAif0wtzYF0jB9+J66SZOdXLzTYvseq0KUshFkfkuJAb1jIULHoPk3yEqI5RQXBq/i1zGjaA9GMA==",
+  "success": true,
+  "projectFilePath": "/home/its/c sharp/giococsharp/giococsharp.csproj",
+  "expectedPackageFiles": [
+    "/home/its/.nuget/packages/microsoft.netcore.app.ref/6.0.8/microsoft.netcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/its/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/its/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.8/microsoft.netcore.app.host.linux-x64.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
