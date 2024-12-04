@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "AspH/1KlZuQcPc1d+H5R8MknZJABVL6tm8A1JewFAJ434f6XXOopxq3AkelMKpNpso6F2M5dv0FWl0RxR6awDg==",
+  "success": true,
+  "projectFilePath": "/home/its/Desktop/c sharp/Videogiochi/Videogiochi.csproj",
+  "expectedPackageFiles": [
+    "/home/its/.nuget/packages/microsoft.netcore.app.ref/6.0.8/microsoft.netcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/its/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/its/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.8/microsoft.netcore.app.host.linux-x64.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,5 @@
+/home/its/Desktop/c sharp/Videogiochi/obj/Debug/net6.0/Videogiochi.csproj.AssemblyReference.cache
+/home/its/Desktop/c sharp/Videogiochi/obj/Debug/net6.0/Videogiochi.GeneratedMSBuildEditorConfig.editorconfig
+/home/its/Desktop/c sharp/Videogiochi/obj/Debug/net6.0/Videogiochi.AssemblyInfoInputs.cache
+/home/its/Desktop/c sharp/Videogiochi/obj/Debug/net6.0/Videogiochi.AssemblyInfo.cs
+/home/its/Desktop/c sharp/Videogiochi/obj/Debug/net6.0/Videogiochi.csproj.CoreCompileInputs.cache
