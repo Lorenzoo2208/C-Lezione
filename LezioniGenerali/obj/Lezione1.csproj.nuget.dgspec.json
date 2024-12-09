@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/its/c sharp/Lezione1/Lezione2/Lezione2.csproj": {}
+    "/home/its/Desktop/c sharp/Lezione1/Lezione1.csproj": {}
   },
   "projects": {
-    "/home/its/c sharp/Lezione1/Lezione2/Lezione2.csproj": {
+    "/home/its/Desktop/c sharp/Lezione1/Lezione1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/its/c sharp/Lezione1/Lezione2/Lezione2.csproj",
-        "projectName": "Lezione2",
-        "projectPath": "/home/its/c sharp/Lezione1/Lezione2/Lezione2.csproj",
+        "projectUniqueName": "/home/its/Desktop/c sharp/Lezione1/Lezione1.csproj",
+        "projectName": "Lezione1",
+        "projectPath": "/home/its/Desktop/c sharp/Lezione1/Lezione1.csproj",
         "packagesPath": "/home/its/.nuget/packages/",
-        "outputPath": "/home/its/c sharp/Lezione1/Lezione2/obj/",
+        "outputPath": "/home/its/Desktop/c sharp/Lezione1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/its/.nuget/NuGet/NuGet.Config"
