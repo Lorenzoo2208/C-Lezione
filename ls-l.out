@@ -1,0 +1,9 @@
+total 28
+drwxrwxr-x 3 its its 4096 Dec  4 12:19 Classi
+drwxrwxr-x 2 its its 4096 Dec 11 09:42 Lezione zaza
+drwxrwxr-x 4 its its 4096 Dec  9 09:54 LezioniGenerali
+drwxrwxr-x 3 its its 4096 Dec  4 11:05 bin
+-rw-rw-r-- 1 its its  293 Dec  4 11:05 c sharp.csproj
+drwxrwxr-x 4 its its 4096 Nov 26 15:05 giococsharp
+-rw-rw-r-- 1 its its    0 Dec 11 11:08 ls-l.out
+drwxrwxr-x 3 its its 4096 Dec  4 11:05 obj

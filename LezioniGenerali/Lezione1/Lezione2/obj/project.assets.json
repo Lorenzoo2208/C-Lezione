@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/its/Desktop/c sharp/Lezione1/Lezione2/Lezione2.csproj",
+      "projectUniqueName": "/home/its/Desktop/c sharp/LezioniGenerali/Lezione1/Lezione2/Lezione2.csproj",
       "projectName": "Lezione2",
-      "projectPath": "/home/its/Desktop/c sharp/Lezione1/Lezione2/Lezione2.csproj",
+      "projectPath": "/home/its/Desktop/c sharp/LezioniGenerali/Lezione1/Lezione2/Lezione2.csproj",
       "packagesPath": "/home/its/.nuget/packages/",
-      "outputPath": "/home/its/Desktop/c sharp/Lezione1/Lezione2/obj/",
+      "outputPath": "/home/its/Desktop/c sharp/LezioniGenerali/Lezione1/Lezione2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/its/.nuget/NuGet/NuGet.Config"
